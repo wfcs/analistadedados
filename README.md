@@ -56,6 +56,15 @@ Veja mais podcasts [aqui](https://github.com/DataTalksClub/awesome-data-podcasts
 ### Negócio
 >Aprenda a calcular as principais métricas de negócio. Como ROI, Payback, % Crescimento, Market Share...
 
+### Comunicação
+> Um bom nível de comunicação facilita o atingimento de objetivos, resolução de problemas, além de aumentar a produtividade, porque cada profissional saberá exatamente o que se espera dele e transmitir com clareza suas ideias.
+
+ - Youtube: [As 3 Principais Habilidades de Comunicação para se Destacar Em 2024](https://www.youtube.com/watch?v=0gtLy5Spq2s)
+ - Youtube: [Elementos da comunicação](https://www.youtube.com/watch?v=i-3h6ptGEMs)
+ - Youtube: [Resumo fácil para entender os elementos da comunicação](https://www.youtube.com/watch?v=fKFxDD2xjBU)
+ - Alura: [Formação Comunicação](https://www.alura.com.br/formacao-comunicacao)
+
+
 ### Excel
 - Youtube: [DataB](https://www.youtube.com/@KarineLago)
 - Youtube: [Leila Gharani](https://www.youtube.com/@LeilaGharani)
